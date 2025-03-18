@@ -1,7 +1,7 @@
 -- Crear la tabla Temperaturas
 CREATE TABLE Temperaturas (
     Id INTEGER PRIMARY KEY AUTOINCREMENT,
-    Provincia TEXT NOT NULL,
+    Provincias TEXT NOT NULL,
     Localidad TEXT NOT NULL,
     Temperatura REAL NOT NULL,
     Fecha TEXT NOT NULL
