@@ -11,7 +11,8 @@ CREATE TABLE Temperaturas (
 INSERT INTO Temperaturas (Provincia, Localidad, Temperatura, Fecha) VALUES
 ('BUENOS AIRES cambio usuario 1', 'LA PLATA', 28.5, '2025-01-01'),
 ('BUENOS AIRES cambio usuario 2', 'MAR DEL PLATA', 23.0, '2025-01-01'),
-('BUENOS AIRES', 'BAHIA BLANCA', 26.3, '2025-01-01'),
+('BUENOS AIRES cambio usuario 2', 'MAR DEL PLATA', 23.0, '2025-01-01'),
+('BUENOS AIRES cambio usuario 2', 'BAHIA BLANCA', 26.3, '2025-01-01'),
 ('BUENOS AIRES', 'TANDIL', 27.0, '2025-01-01'),
 ('BUENOS AIRES', 'PERGAMINO', 29.4, '2025-01-01'),
 ('BUENOS AIRES', 'OLAVARRIA', 30.1, '2025-01-01'),
