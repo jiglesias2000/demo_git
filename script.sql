@@ -1,10 +1,10 @@
 -- Crear la tabla Temperaturas
-CREATE TABLE Temperaturas (
+CREATE TABLE TemperaturasMax (
     Id INTEGER PRIMARY KEY AUTOINCREMENT,
     Probincias TEXT NOT NULL,
     Localidad TEXT NOT NULL,
     Temperatura REAL NOT NULL,
-    Fecha TEXT NOT NULL
+    Fechas TEXT NOT NULL
 );
 
 
