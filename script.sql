@@ -8,7 +8,7 @@ CREATE TABLE TemperaturasMax (
 );
 
 
-INSERT INTO Temperaturas (Provincia, Localidad, Temperatura, Fecha) VALUES
+INSERT INTO TemperaturasMaximas (Provincia, Localidad, Temperatura, Fecha) VALUES
 ('BUENOS AIRES cambio usuario 1', 'LA PLATA', 28.5, '2025-01-01'),
 ('BUENOS AIRES cambio usuario 2', 'MAR DEL PLATA', 23.0, '2025-01-01'),
 ('BUENOS AIRES cambio usuario 2', 'MAR DEL PLATA', 23.0, '2025-01-01'),
