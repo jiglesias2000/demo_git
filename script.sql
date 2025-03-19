@@ -1,5 +1,5 @@
 -- Crear la tabla Temperaturas
-CREATE TABLE TemperaturasMaximasV2 (
+CREATE TABLE TemperaturasMaximasV4 (
     Id INTEGER PRIMARY KEY AUTOINCREMENT,
     Probincias TEXT NOT NULL,
     Localidad TEXT NOT NULL,
